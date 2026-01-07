@@ -7,6 +7,8 @@
 XCSoar is a tactical glide computer for Android, Linux, macOS,
 and Windows.
 
+The goal of XCSoarMate is adding voice functionality to increase cockpit workflow.
+
 This file is aimed at developers.  Developers should [read the
 developer manual](https://xcsoar.readthedocs.io/en/latest/).
 
